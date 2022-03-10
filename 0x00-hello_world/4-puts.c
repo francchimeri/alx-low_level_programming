@@ -1,10 +1,8 @@
 #include <stdio.h>
-/*
+/**
+ * Main - Entry point
  *
- *printing programming is like building
- *
- * main
- *
+ * Return: Always 0 (success)
  */
 int main(void)
 {
