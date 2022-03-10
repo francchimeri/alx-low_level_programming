@@ -3,10 +3,11 @@
  *
  *printing programming is like building
  *
- * main 
+ * main
+ *
  */
-int main()
-{ puts("\"Programming is like building a multilingual puzzle");
-	return 0;
+int main(void)
+{
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
-
